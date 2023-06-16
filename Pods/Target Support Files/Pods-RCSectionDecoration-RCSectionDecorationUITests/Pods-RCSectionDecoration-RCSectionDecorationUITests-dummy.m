@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_RCSectionDecoration_RCSectionDecorationUITests : NSObject
+@end
+@implementation PodsDummy_Pods_RCSectionDecoration_RCSectionDecorationUITests
+@end

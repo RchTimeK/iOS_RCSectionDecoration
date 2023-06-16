@@ -1,0 +1,6 @@
+framework module Pods_RCSectionDecoration {
+  umbrella header "Pods-RCSectionDecoration-umbrella.h"
+
+  export *
+  module * { export * }
+}
